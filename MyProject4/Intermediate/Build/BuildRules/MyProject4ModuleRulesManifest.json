@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ender\\Documents\\Unreal Projects\\MyProject4\\Intermediate\\Source\\MyProject4.Build.cs",
+		"C:\\Users\\ender\\Documents\\Unreal Projects\\MyProject4\\Intermediate\\Source\\MyProject4.Target.cs",
+		"C:\\Users\\ender\\Documents\\Unreal Projects\\MyProject4\\Intermediate\\Source\\MyProject4Client.Target.cs",
+		"C:\\Users\\ender\\Documents\\Unreal Projects\\MyProject4\\Intermediate\\Source\\MyProject4Editor.Target.cs",
+		"C:\\Users\\ender\\Documents\\Unreal Projects\\MyProject4\\Intermediate\\Source\\MyProject4Server.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}

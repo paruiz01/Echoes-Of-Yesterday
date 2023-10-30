@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ender\\documents\\unreal projects\\myproject4\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\myproject4\\module.myproject4.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ender\\documents\\unreal projects\\myproject4\\intermediate\\build\\win64\\x64\\myproject4\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\ender\\documents\\unreal projects\\myproject4\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\myproject4\\definitions.myproject4.h",
+            "c:\\users\\ender\\documents\\unreal projects\\myproject4\\intermediate\\source\\myproject4.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
